@@ -1,2 +1,0 @@
-# simplekijijiscraper
-Created with CodeSandbox
